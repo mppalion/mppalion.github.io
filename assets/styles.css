@@ -1,8 +1,8 @@
 /* Generales */
 
 :root {
-  --color-primario: #94c594;
-  --color-secundario: #f1ba71;
+  --color-primario: #8ec98e;
+  --color-secundario: #f3ba6f;
   --color-terciario: #94c594;
 }
 
@@ -16,7 +16,6 @@ p{
   font-weight: 300;
   font-size: 25px;
 }
-
 
 h4
 {
