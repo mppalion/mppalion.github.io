@@ -1,7 +1,7 @@
 /* Generales */
 
 :root {
-  --color-primario: #f9af8f;
+  --color-primario: #94c594;
   --color-secundario: #f1ba71;
   --color-terciario: #94c594;
 }
@@ -96,6 +96,9 @@ a:hover{
 .ceremonia{
   opacity: 0;
 }
+.web{
+  opacity: 0;
+}
 .title-galery{
   opacity: 0;
 }
@@ -117,8 +120,14 @@ a:hover{
 .anillos{
   opacity: 0;
 }
-
+.flower{
+  opacity: 0;
+}
 .divCanciones{
+  opacity: 0;
+
+}
+.divConocenuestraweb{
   opacity: 0;
 }
 .divAlojamientos{
